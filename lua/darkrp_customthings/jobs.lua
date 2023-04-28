@@ -19,6 +19,7 @@ Add your custom jobs under the following line:
 TEAM_THIEF = DarkRP.createJob("Thief", {
     color = Color(75, 75, 75, 255),
     model = "models/player/css/t_arctic.mdl",
+    
     description = [[A thief]],
     weapons = {"lockpick"},
     command = "thief",
